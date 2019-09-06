@@ -13,7 +13,7 @@ module FormsLab
     end
 
     post '/pirates' do
-      binding.pry
+      #binding.pry
       #params.inspect
       #erb :'/pirates/show'
     end
