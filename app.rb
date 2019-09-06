@@ -14,7 +14,7 @@ module FormsLab
 
     post '/pirates' do
       #binding.pry
-      #params.inspect
+      params.inspect
       #erb :'/pirates/show'
     end
   end
